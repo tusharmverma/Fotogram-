@@ -1,0 +1,6 @@
+framework module Pods_Fotogram {
+  umbrella header "Pods-Fotogram-umbrella.h"
+
+  export *
+  module * { export * }
+}
